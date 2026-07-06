@@ -55,7 +55,7 @@
         @endif
       </div>
 
-      <button type="submit" class="login-btn"><i class="fa-solid fa-power-off"></i> Masuk ke Sistem</button>
+      <button type="submit" class="login-btn"></i> Masuk ke Sistem</button>
 
       <div style="text-align: center; margin-top: 15px; font-size: 11px; font-family: var(--f-mono);">
           <a href="{{ route('register') }}" style="color: var(--brass-dk); text-decoration: none;">Belum punya akun? Daftar di sini</a>
