@@ -5,30 +5,30 @@
    glass tanks, indicator lamps) rather than glossy app-blue.
 ============================================================ */
 :root {
-  --ink:        #0F2B2E;
-  --ink-2:      #143A3D;
-  --ink-3:      #1B4B4F;
-  --petrol:     #1E5866;
-  --paper:      #F4EFE3;
-  --paper-2:    #EAE1CC;
-  --paper-3:    #DFD3B4;
-  --brass:      #C08A3E;
-  --brass-lt:   #E0B667;
-  --brass-dk:   #93672C;
-  --water:      #3C8DAD;
-  --water-dk:   #256D89;
-  --ok:         #4C7A5C;
-  --ok-bg:      #E1EAE1;
-  --warn:       #B4802E;
-  --warn-bg:    #F3E7CC;
-  --danger:     #A6392D;
-  --danger-bg:  #F1DBD6;
-  --line:       #D8CEB4;
-  --line-ink:   rgba(244,239,227,.14);
-  --ink-text:   #1D2E29;
-  --muted:      #6C6353;
-  --on-ink:     #F4EFE3;
-  --on-ink-mut: rgba(244,239,227,.60);
+  --ink:        #422812;
+  --ink-2:      #523419;
+  --ink-3:      #634122;
+  --petrol:     #80532C;
+  --paper:      #F7F1E1;
+  --paper-2:    #EFE8D3;
+  --paper-3:    #E5DCBE;
+  --brass:      #8B5A2B;
+  --brass-lt:   #D0A97A;
+  --brass-dk:   #6F4520;
+  --water:      #5C7A4A;
+  --water-dk:   #4A6B3D;
+  --ok:         #4A6B3D;
+  --ok-bg:      #EAEFE6;
+  --warn:       #B5843F;
+  --warn-bg:    #F2EBD9;
+  --danger:     #A03E33;
+  --danger-bg:  #F2E5E2;
+  --line:       #DFD6BE;
+  --line-ink:   rgba(223, 214, 190, 0.14);
+  --ink-text:   #36200F;
+  --muted:      #756C5C;
+  --on-ink:     #F7F1E1;
+  --on-ink-mut: rgba(247, 241, 225, 0.65);
 
   --radius-sm: 6px; --radius-md: 10px; --radius-lg: 16px;
   --shadow-sm: 0 1px 3px rgba(15,43,46,.10);
